@@ -1,6 +1,6 @@
-2024-10-20更新,#genre#
-[session-0443ff8a] Route error: The Repository has been blocked. see: https://gitee.com/flying-snow-wu/xuefei
+2024-10-21更新,#genre#
+[session-4844d6b7] Route error: The Repository has been blocked. see: https://gitee.com/flying-snow-wu/xuefei
 央视频道,#genre#
 卫视频道,#genre#
 其他频道,#genre#
-[session-204911ab] Route error: The Repository has been blocked. see: https://gitee.com/flying-snow-wu/xuefei
+[session-46446c83] Route error: The Repository has been blocked. see: https://gitee.com/flying-snow-wu/xuefei
